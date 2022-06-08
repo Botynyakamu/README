@@ -16,8 +16,8 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288215689772)
 
 ### Sosial Media
-[![Tiktok](https://img.shields.io/badge/FANGZ-red?style=for-the-badge&logo=youtube&logoColor=white)](tiktok.com/@fangzjb)
-[![Instagram](https://img.shields.io/badge/FANGZ GANZ-black?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darmapryanda?igshid=YmMyMTA2M2Y=)
+[![YouTube](https://img.shields.io/badge/FANGZ-red?style=for-the-badge&logo=youtube&logoColor=white)](tiktok.com/@fangzjb)
+[![Instagram](https://img.shields.io/badge/FANGZ-black?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darmapryanda?igshid=YmMyMTA2M2Y=)
 
 ## Stats
 ![Fangz GitHub stats](https://github-readme-stats.vercel.app/api?username=fangzbot2007&show_icons=true&theme=radical)
